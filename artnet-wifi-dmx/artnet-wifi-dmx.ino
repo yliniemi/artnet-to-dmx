@@ -1,4 +1,12 @@
+/*
+ArtNet to DMX using wifi
+Copyright (C) 2022 Antti Yliniemi
+https://github.com/yliniemi/artnet-to-dmx
 
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License version 3 as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. 
+https://www.gnu.org/licenses/agpl-3.0.txt
+*/
 
 // TODO for this wifi version
 // use my own setup wifi routines
